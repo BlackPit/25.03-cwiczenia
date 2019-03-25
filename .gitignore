@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+.idea/
+25.03 cwiczenia2.iml
+out/
