@@ -2,14 +2,19 @@ import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Task1 {
-    public void run() {
-        public static void Task1 (String[] args){
-            Scanner scan = new Scanner(System.in);
-            System.out.println("Wpisz imiona: ");
-            String name = scan.nextLine();
+    public static void run() {
 
-            System.out.println("Twoje imiona: " + Task1(););
+            Scanner scan = new Scanner(System.in);
+            System.out.println("Wpisz liczbe : ");
+            int number = scan.nextInt();
+
+            
+
+
+
+
+
 
         }
     }
-}
+
