@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Task2 {
-
-
-
-}
+//public class Task2 {
+//
+//
+//
+//}
